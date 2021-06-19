@@ -3,9 +3,11 @@
     <script>
     </script>
     <style>
+    {color: red;}
     </style>
   </head>
   <body>
-  <img src="Quiz 1 image.jpg" >
+    <h1> Kenneth Chan </h1>
+  <img src="Quiz1image.jpg" >
   </body>
 </html>
